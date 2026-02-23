@@ -140,3 +140,5 @@
 /Users/aleshkazavizion/RiderProjects/DestinyMatrix/DestinyMatrix/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/aleshkazavizion/RiderProjects/DestinyMatrix/DestinyMatrix/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/aleshkazavizion/RiderProjects/DestinyMatrix/DestinyMatrix/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/aleshkazavizion/RiderProjects/DestinyMatrix/DestinyMatrix/obj/Debug/net8.0/DestinyMatrix.sourcelink.json
+/Users/aleshkazavizion/RiderProjects/DestinyMatrix/DestinyMatrix/bin/Debug/net8.0/Data/matrix_data.json
