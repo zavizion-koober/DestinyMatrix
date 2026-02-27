@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DestinyMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f7e1f69f7c5895fc533fd8570350d60e090b9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895b82b0ab2f64e1c484d6c23e2e234da0f926c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DestinyMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DestinyMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
