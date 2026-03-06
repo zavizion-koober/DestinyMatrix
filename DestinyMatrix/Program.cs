@@ -47,7 +47,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors("AllowAll");
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 
 app.MapGet("/api/debug/db-status", async (AppDbContext context) =>
 {
